@@ -20,8 +20,8 @@ export default function Hero() {
       <Image
         src="/profile.jpeg"
         alt="Rickhy Siswanto"
-        width={120}
-        height={120}
+        width={200}
+        height={200}
         style={{
           flexShrink: 0,
           borderRadius: "50%",
@@ -47,11 +47,6 @@ export default function Hero() {
           ))}
         </div>
         <div style={{ display: "flex", gap: "0.75rem", flexWrap: "wrap" }}>
-          <button onClick={() => handleScroll("blog")} style={{ background: "var(--accent)", color: "#fff", border: "none", borderRadius: 8, padding: "9px 20px", fontSize: 13, fontWeight: 500, cursor: "pointer", fontFamily: "inherit", transition: "opacity 0.2s" }}
-            onMouseEnter={e => (e.currentTarget.style.opacity = "0.85")}
-            onMouseLeave={e => (e.currentTarget.style.opacity = "1")}>
-            Baca Blog
-          </button>
           <button onClick={() => handleScroll("contact")} style={{ background: "transparent", color: "var(--text)", border: "0.5px solid var(--border2)", borderRadius: 8, padding: "9px 20px", fontSize: 13, fontWeight: 500, cursor: "pointer", fontFamily: "inherit", transition: "background 0.2s" }}
             onMouseEnter={e => (e.currentTarget.style.background = "var(--bg3)")}
             onMouseLeave={e => (e.currentTarget.style.background = "transparent")}>

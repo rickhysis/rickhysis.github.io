@@ -12,13 +12,15 @@ color: "#E6F1FB"
 ---
 Dalam video berjudul "Why Reductionist Theories of Causation Fail", filsuf Michael Tooley membahas berbagai teori reduksionis mengenai hubungan sebab-akibat (kausalitas) dan menjelaskan mengapa teori-teori tersebut gagal. Sebagai seorang non-reduksionis, Tooley berpendapat bahwa kausalitas adalah konsep dasar yang tidak bisa direduksi begitu saja ke dalam komponen lain.
 
-Berikut adalah ringkasan beberapa teori reduksionis yang dibahas dalam video beserta keberatan Tooley terhadapnya:
+Ini ringkasan beberapa teori yang dia bahas, plus kenapa menurut dia teori-teori itu bermasalah:
 
 ### Direct Realism (Realisme Langsung) [00:33]
 
 **Konsep:** Pandangan bahwa kita bisa langsung menyadari atau merasakan adanya hubungan kausal, sehingga kausalitas dianggap sebagai konsep dasar yang tidak memerlukan analisis lebih lanjut.
 
 **Kritik:** Mengikuti argumen David Hume, Tooley menyatakan bahwa manusia sebenarnya tidak bisa secara langsung mengamati atau menyadari hubungan sebab-akibat itu sendiri.
+
+[https://www.gutenberg.org/files/4705/4705-h/4705-h.htm](sumber)
 
 ### Probabilistic Accounts (Teori Probabilistik) [01:28]
 
@@ -56,4 +58,18 @@ Berikut adalah ringkasan beberapa teori reduksionis yang dibahas dalam video bes
 
 ## Kesimpulan [13:43]
 
-Michael Tooley menyimpulkan bahwa seluruh teori reduksionis di atas gagal. Teori-teori tersebut tidak mampu menangkap aspek penting dari kausalitas, seperti arah hubungan sebab-akibat (directionality), probabilitas, maupun peran nyata dari hukum alam yang mengatur jalannya suatu peristiwa.
+Tooley akhirnya nyimpulin bahwa semua teori reduksionis ini gagal. Mereka nggak bisa menangkap hal-hal penting dari kausalitas, seperti:
+* arah sebab-akibat
+* hubungan probabilitas
+* peran hukum alam
+
+Intinya, kausalitas itu bukan sesuatu yang bisa dijelaskan cuma dengan “dipreteli” jadi bagian-bagian lain. Dia lebih fundamental dari itu.
+
+## Daftar Bacaan yang saya baca
+
+* [https://www.cambridge.org/core/elements/abs/problem-of-evil/7B859042E97C27C1C7AAB548B0FE3232](https://www.cambridge.org/core/elements/abs/problem-of-evil/7B859042E97C27C1C7AAB548B0FE3232)
+
+* [https://id.wikipedia.org/wiki/Tahafut_al-Falasifah](https://id.wikipedia.org/wiki/Tahafut_al-Falasifah)
+
+* [https://bayes.cs.ucla.edu/WHY/why-ch1.pdf](https://bayes.cs.ucla.edu/WHY/why-ch1.pdf)
+

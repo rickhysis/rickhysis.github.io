@@ -20,13 +20,13 @@ Fokus utama proyek ini adalah memperbarui dan mengembangkan **Sistem Informasi M
 
 Sebagai bentuk pertanggungjawaban proyek dan validasi alur sistem baru, saya mengadakan sesi presentasi dan evaluasi langsung bersama **Direktur RS Yasyfin Darusalam Gontor** beserta jajaran manajemen rumah sakit. Saya mencoba mendengar aspirasi dan masukan dari para petugas hingga manajemen secara langsung untuk pengembangan sistem ini. Selain itu, saya mendemonstrasikan keandalan sistem baru, memantau simulasi operasional dari poli hingga rawat inap, serta memvalidasi kesiapan integrasi SATUSEHAT Kemenkes. Direktur menyambut hangat inisiatif digitalisasi ini dan mengapresiasi efisiensi yang dihadirkan oleh sistem baru.
 
-Berikut adalah dokumentasi kegiatan saya selama proses implementasi dan pertemuan bersama Direktur:
+Bahkan saya diundang untuk mengunjungi rumah dinas direktur rumah sakit dr arrasyid indra untuk berdiskusi dengan dan membahas lebih detail tentang pengerjaan SIMRS rumah sakit yasyfin darusalam gontor
 
 ![Pertemuan dengan Direktur RS Yasyfin Gontor](/blog/2/1.jpeg)
 
 ## Pengembangan Ekosistem SIMRS Secara Komprehensif
 
-Untuk menyusun sistem yang ramah pengguna namun andal, saya melakukan analisis mendalam terhadap alur kerja Rumah Sakit Yasyfin Darussalam Gontor. Saya mendesain ulang dan mengkategorikan modul-modul utama untuk mengintegrasikan seluruh operasional rumah sakit:
+Untuk menyusun sistem yang ramah pengguna namun andal, saya melakukan analisis mendalam terhadap alur kerja Rumah Sakit Yasyfin Darussalam Gontor. Sedikit sekali paper maupun buku yang membahas pengembangan SIMRS, mungkin karna sistem rumah sakit di negara ini hanya terpaku pada regulasi dan mengikuti apa yang sudah ada. Saya mendesain ulang dan mengkategorikan modul-modul utama untuk mengintegrasikan seluruh operasional rumah sakit:
 
 1. **Admisi & Pelayanan:** Meliputi modul Admisi, pendataan Pasien, Instalasi Gawat Darurat (IGD), Rawat Jalan, dan Rawat Inap. Modul ini juga menangani Medical Check Up, surat Persetujuan dan Penolakan tindakan, serta PPI (Pencegahan dan Pengendalian Infeksi).
 2. **Penunjang Medis:** Mencakup Farmasi, Instalasi Gizi, Laboratorium, dan Radiologi. Di modul ini, saya secara khusus menghubungkan sistem dengan standar DICOM Radiologi dan ekosistem SATUSEHAT Kemenkes.

@@ -67,9 +67,7 @@ Intinya, kausalitas itu bukan sesuatu yang bisa dijelaskan cuma dengan “dipret
 
 ## Daftar Bacaan yang saya baca
 
-* [https://www.cambridge.org/core/elements/abs/problem-of-evil/7B859042E97C27C1C7AAB548B0FE3232](https://www.cambridge.org/core/elements/abs/problem-of-evil/7B859042E97C27C1C7AAB548B0FE3232)
-
-* [https://id.wikipedia.org/wiki/Tahafut_al-Falasifah](https://id.wikipedia.org/wiki/Tahafut_al-Falasifah)
-
-* [https://bayes.cs.ucla.edu/WHY/why-ch1.pdf](https://bayes.cs.ucla.edu/WHY/why-ch1.pdf)
+- https://www.cambridge.org/core/elements/abs/problem-of-evil/7B859042E97C27C1C7AAB548B0FE3232
+- https://id.wikipedia.org/wiki/Tahafut_al-Falasifah
+- https://bayes.cs.ucla.edu/WHY/why-ch1.pdf
 

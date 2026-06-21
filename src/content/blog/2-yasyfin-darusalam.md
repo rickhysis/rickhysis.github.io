@@ -12,7 +12,7 @@ color: "#FAECE7"
 ---
 ## Overview
 
-Digitalisasi layanan kesehatan kini menjadi sebuah kebutuhan mutlak untuk meningkatkan keselamatan pasien (*patient safety*), akurasi diagnosis, dan efisiensi operasional rumah sakit. Saya berkesempatan untuk membantu **Rumah Sakit Yasyfin Darusalam Gontor** dalam melakukan transformasi digital berskala besar. Saya sendiri yang diminta memambantu mengkaji dan membantu mengembangkan atas rekomendasi dari seorang teman saya. 
+Digitalisasi layanan kesehatan saat ini memang menjadi sebuah kebutuhan mutlak untuk meningkatkan keselamatan pasien (*patient safety*), akurasi diagnosis, dan efisiensi operasional rumah sakit. Saya saat ini sedang berkesempatan membantu **Rumah Sakit Yasyfin Darusalam Gontor** untuk melakukan transformasi digital berskala besar. Saya sendiri yang diminta memambantu mengkaji dan membantu mengembangkan atas rekomendasi dari seorang teman saya. 
 
 Fokus utama proyek ini adalah memperbarui dan mengembangkan **Sistem Informasi Manajemen Rumah Sakit (SIMRS)** terintegrasi yang mencakup alur pelayanan lengkap dari hulu ke hilir.
 

@@ -7,7 +7,7 @@ date: "20 Juni 2026"
 author: "Rickhy Siswanto"
 excerpt: "Catatan kecil dihari hari yang penuh pemikiran"
 featured: false
-image: "/blog/4/0.jpeg"
+image: "/blog/3/0.jpeg"
 color: "#E1F5EE"
 ---
 

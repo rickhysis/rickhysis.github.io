@@ -76,7 +76,7 @@ export const socials: Social[] = [
   { label: "GitHub", value: "@rickhysis", href: "https://github.com/rickhysis", emoji: "🐙", bg: "#F1EFE8" },
   { label: "Medium", value: "@rickhysis", href: "https://rickhysiswanto.medium.com", emoji: "✍️", bg: "#F1EFE8" },
   { label: "LinkedIn", value: "Rickhy Siswanto", href: "https://www.linkedin.com/in/rickhy-siswanto-9494aa137/", emoji: "💼", bg: "#E6F1FB" },
-  { label: "WhatsApp", value: "+62 821-3900-3992", href: "https://wa.me/6282139003992?text=Hey+Brow", emoji: "💬", bg: "#E1F5EE" },
+  //{ label: "WhatsApp", value: "+62 821-3900-3992", href: "https://wa.me/6282139003992?text=Hey+Brow", emoji: "💬", bg: "#E1F5EE" },
   { label: "Telegram", value: "@rickhysis", href: "https://t.me/rickhysis", emoji: "✈️", bg: "#E6F1FB" },
   { label: "YouTube", value: "@rickhysiswanto4836", href: "https://www.youtube.com/@rickhysiswanto4836", emoji: "▶️", bg: "#FAECE7" },
 ];
